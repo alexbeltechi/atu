@@ -10,6 +10,7 @@ Atú explores the space between understanding a person, seeing possibilities aro
 
 - [People to study and potential clients](research/people-and-prospects.md) — public profiles, Instagram links, projects, and research questions
 - [Competition and adjacent practices](research/landscape-and-competitors.md) — providers, their offerings, and ATU's possible territory
+- [International Instagram references](research/international-instagram-references.md) — candid Reels, editorial portraits, typographic posts, and repeatable low-lift formats
 - [Positioning hypotheses](strategy/positioning.md) — the central idea, possible language, boundaries, and positioning map
 - [Positioning map](strategy/positioning-map.svg) — an editable vector sketch of personal depth vs. business strategy
 - [Content library](content/README.md) — short statements, questions, stories, titles with supporting text, and formats
