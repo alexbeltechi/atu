@@ -7,6 +7,7 @@ This is **raw material**, not a content calendar or approved published copy. It 
 ## Browse
 
 - [Full idea bank](idea-bank.md) — short editorial statements, engagement questions, personal stories, opinions, educational titles, lifestyle, projects, longer copy and spoken hooks.
+- [Romanian copy bank](copy-bank.md) — expanded quips, statements, questions, informal hooks, illustrative story seeds, medium pieces and complete two-paragraph editorials.
 - [Formats / mood-board system](formats-and-moodboard.md) — 12 post archetypes, content density, image treatments, and fields to make reusable Figma components.
 - [Positioning and tone](../strategy/positioning.md) — ATU's emerging editorial voice and boundaries.
 
@@ -26,7 +27,7 @@ Balance thoughtful and playful. A human feed needs casual details as well as str
 3. Pick a **medium**: still portrait, story, three-slide carousel, Reel, typographic frame, photo diary, interview clip.
 4. Adapt the idea to their own language and experience; never fabricate a personal confession, event or testimonial.
 5. Write for a person speaking naturally, not a motivational quote generator.
-6. Record effective new ideas in the appropriate heading of [idea-bank.md](idea-bank.md).
+6. Record effective new ideas in the appropriate heading of [idea-bank.md](idea-bank.md) or [copy-bank.md](copy-bank.md).
 
 ## Brand-system test
 
