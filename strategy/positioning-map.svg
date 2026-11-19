@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="610" viewBox="0 0 920 610" role="img" aria-labelledby="title desc">
+<title id="title">ATU potential positioning: personal depth and business strategy</title>
+<desc id="desc">Conceptual map. Vertical axis: shallow external presentation to deeper personal direction. Horizontal axis: visual execution to commercial strategy. Brand studios toward lower left, identity practice toward upper left, coaching toward mid right, and proposed ATU toward upper right. These are archetypes rather than competitive scores.</desc>
+<rect width="920" height="610" fill="#f7f6f2"/>
+<text x="62" y="58" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#172030">Where ATU could sit</text>
+<text x="62" y="82" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#68707A">Illustrative positioning territory · not measured competitors</text>
+<g stroke="#CCD0D1" stroke-width="1"><line x1="130" y1="122" x2="130" y2="497"/><line x1="130" y1="497" x2="818" y2="497"/><line x1="130" y1="310" x2="818" y2="310" stroke-dasharray="4 6"/><line x1="473" y1="122" x2="473" y2="497" stroke-dasharray="4 6"/></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#3f4853" font-size="15">
+<text x="131" y="110">Personal depth and direction ↑</text>
+<text x="130" y="529">Visual expression and execution</text>
+<text x="657" y="529">Business strategy →</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+<circle cx="263" cy="417" r="9" fill="#8C98A8"/><text x="280" y="423" font-size="20" fill="#253043">Brand studios</text>
+<circle cx="327" cy="231" r="9" fill="#8C98A8"/><text x="346" y="237" font-size="20" fill="#253043">Identity / styling</text>
+<circle cx="635" cy="305" r="9" fill="#8C98A8"/><text x="652" y="311" font-size="20" fill="#253043">Coaching</text>
+<circle cx="663" cy="174" r="43" fill="#D8EFE4" stroke="#23835B" stroke-width="2"/><circle cx="663" cy="174" r="12" fill="#23835B"/>
+<text x="724" y="182" font-size="28" font-weight="700" fill="#183D30">ATU?</text>
+</g>
+<text x="62" y="580" font-size="13" fill="#68707A" font-family="Arial, Helvetica, sans-serif">The opportunity to investigate: connect personal insight, creative authorship, and commercial judgment.</text>
+</svg>
