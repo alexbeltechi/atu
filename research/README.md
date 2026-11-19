@@ -1,9 +1,11 @@
 # Research
 
-Two living research desks, initialized 2026-11-19.
+Three living research desks, initialized 2026-11-19.
 
 1. **[People to study, possible clients and connections](people-and-prospects.md)** — Romanian personalities, founders and media voices; profile and Instagram links; public context, observations and questions.
 2. **[Competitive landscape and adjacent practices](landscape-and-competitors.md)** — personal-brand studios, coaches, leadership advisors and luxury-strategy providers; their published services and the territory ATU might investigate.
+
+3. **[International Instagram references](international-instagram-references.md)** — international low-production visual and editorial formats, creator links, and a mood-board deconstruction checklist.
 
 The [positioning diagram](../strategy/positioning-map.svg) and its [analysis](../strategy/positioning.md) connect the two.
 
